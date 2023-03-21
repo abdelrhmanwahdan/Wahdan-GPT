@@ -17,7 +17,7 @@ To watch Wahdan GPT in action video [click here](https://www.youtube.com/watch?v
 This is a fullstack mini chatgpt created using natural language processing so I have used different tools for different parts of the projects which are:
 
 - Hugging-face transformers library for the language model.
-- Google/flan-T5-large text2text generation model
+- google/flan-t5-large text2text generation model
 - React-js for the front-end part.
 - Flask for the back-end part.
 
