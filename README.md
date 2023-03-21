@@ -9,8 +9,8 @@ In this project I have created a mini version of the famous chat-gpt using a lpt
 
 ## Watch the chatbot in action
 
-To watch Wahdan GPT in action video [click here](https://www.youtube.com/watch?V9aneMw2nrc).<br><br>
-[![Watch Wahdan GPT video](https://img.youtube.com/vi/V9aneMw2nrc/0.jpg)](https://www.youtube.com/watch?V9aneMw2nrc)
+To watch Wahdan GPT in action video [click here](https://www.youtube.com/watch?v=V9aneMw2nrc).<br><br>
+[![Watch Wahdan GPT video](https://img.youtube.com/vi/V9aneMw2nrc/0.jpg)](https://www.youtube.com/watch?v=V9aneMw2nrc)
 
 ## Tools
 
