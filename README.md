@@ -1,4 +1,4 @@
-# Wahdan chatbot
+# Wahdan GPT
 
 In this project I have created a mini version of the famous chat-gpt using a lptop with modest specifications However Wahdan GPT is capable of doing language tasks with pretty descent results and here is some examples of the tasks that Wahdan GPT is capable of:
 
@@ -7,7 +7,7 @@ In this project I have created a mini version of the famous chat-gpt using a lpt
 - parphrase sentences.
 - answer any questions
 
-## Watch the chatbot in action
+## Watch Wahdan GPT in action
 
 To watch Wahdan GPT in action video [click here](https://www.youtube.com/watch?v=V9aneMw2nrc).<br><br>
 [![Watch Wahdan GPT video](https://img.youtube.com/vi/V9aneMw2nrc/0.jpg)](https://www.youtube.com/watch?v=V9aneMw2nrc)
