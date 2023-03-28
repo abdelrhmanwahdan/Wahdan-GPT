@@ -4,8 +4,8 @@ In this project I have created a mini version of the famous chat-gpt using a lpt
 
 - Translate from language to language.
 - Summarize long paragraphs into small but meaningful paragraphs
-- parphrase sentences.
-- answer any questions
+- Parphrase sentences.
+- Answer any questions
 
 ## Watch Wahdan GPT in action
 
