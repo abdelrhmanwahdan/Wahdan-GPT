@@ -1,6 +1,6 @@
 # Wahdan GPT
 
-In this project I have created a mini version of the famous chat-gpt using a lptop with modest specifications However Wahdan GPT is capable of doing language tasks with pretty descent results and here is some examples of the tasks that Wahdan GPT is capable of:
+In this project I have created a mini version of the famous chat-gpt using a laptop with modest specifications However Wahdan GPT is capable of doing language tasks with pretty descent results and here is some examples of the tasks that Wahdan GPT is capable of:
 
 - Translate from language to language.
 - Summarize long paragraphs into small but meaningful paragraphs
